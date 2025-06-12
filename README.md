@@ -2,7 +2,7 @@
 ### 📊 This project is a simple yet practical demonstration of how we can use Pivot Tables and Pivot Charts in Excel to analyze sales data and create interactive reports. It’s perfect for learning or showcasing basic data analysis skills — especially for aspiring data analysts.
 
 ## 📁 About the Dataset
-- The dataset includes the following columns:
+The dataset includes the following columns:
 - Sales Person – Who made the sale
 - Geography – Region where the sale happened
 - Product – Item sold
