@@ -44,4 +44,3 @@ The dataset includes the following columns:
 - Filters & Slicers – For interactive, focused analysis.
 - Data Aggregation – Summarizing sales by person, region, and product.
 
-## 📷 Screenshots
