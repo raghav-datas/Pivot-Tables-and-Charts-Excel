@@ -14,23 +14,34 @@
 - Total Sales by Salesperson
 → Quickly see how much each salesperson has sold.
 
-Sales by Person & Geography
+- Sales by Person & Geography
 → View sales performance across different regions for each salesperson.
 
 - Sales by Person with Geography Filter
 → Apply filters to focus on specific regions and see how each person is doing.
 
-Products with Sales-Value Filter
+- Products with Sales-Value Filter
 → Explore product-level sales, with the ability to filter based on sales amount.
 
-Interactive Reports with Pivot Tables
+- Interactive Reports with Pivot Tables
 → Clickable and dynamic pivot tables that let you explore the data freely.
 
-Pivot Charts
+- Pivot Charts
 → Clear bar and column charts showing sales trends and comparisons.
 
-Interactive Pivot Charts
+- Interactive Pivot Charts
 → Charts that respond to filters and slicers for easy data exploration.
 
-Sales as Values & Percentages (Bar Charts)
+- Sales as Values & Percentages (Bar Charts)
 → View both actual sales figures and percentage shares side by side.
+
+
+
+## 🔍 Key Concepts Covered
+
+- Pivot Table – A tool to summarize and analyze large datasets.
+- Pivot Chart – A visual representation of pivot table data.
+- Filters & Slicers – For interactive, focused analysis.
+- Data Aggregation – Summarizing sales by person, region, and product.
+
+##📷 Screenshots
